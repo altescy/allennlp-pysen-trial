@@ -7,7 +7,7 @@ authors = ["altescy <altescy@fastmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 allennlp = "2.7.0"
-gitpython = "3.1.20"
+gitpython = "3.1.22"
 
 [tool.poetry.dev-dependencies]
 pysen = {version = "==0.9.1", extras = ["lint"]}
